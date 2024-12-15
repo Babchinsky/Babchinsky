@@ -38,6 +38,8 @@ Junior Fullstack Developer at Dvigunity
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)
 ![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
 ### 💽 Database Tools
 ![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?logo=microsoftsqlserver&logoColor=white)
 ## 🌟 About Me
@@ -49,8 +51,6 @@ Junior Fullstack Developer at Dvigunity
 - **Email**: babchinsky.prog@gmail.com
 - **Telegram**: [@hardcodeonly](https://t.me/hardcodeonly)
 - **LinkedIn**: [Oleksii Babchynskyi](https://www.linkedin.com/in/oleksii-babchynskyi-8a1b05152/)
-
-
 
 
 
