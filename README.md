@@ -2,7 +2,7 @@
 ## 🎓 Education
 4th-year student at Odesa Technological University STEP, specializing in Software Development
 ## 💼 Work Experience
-Junior Fullstack Developer at Dvigunity
+Junior Fullstack Developer at Dvigunity (8 month)
 ## 🚀 Tech Stack
 ### 📦 Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
