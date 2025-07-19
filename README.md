@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm Alex, Junior Fullstack Developer from Odesa, Ukraine 
+# Hi there! I'm Alex, Junior Fullstack Developer from Odesa, Ukraine 
 ## 🎓 Education
 4th-year student at Odesa Technological University STEP, specializing in Software Development
 ## 💼 Work Experience
