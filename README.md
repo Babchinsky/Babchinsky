@@ -48,9 +48,9 @@ Junior Fullstack Developer at Dvigunity (8 month)
 - Love exploring innovative programming approaches
 - Enjoy working on personal projects and expanding my technological expertise
 ## 📫 Contact Me
-- **Email**: babchinsky.prog@gmail.com
+- **Email**: alexseyb64@gmail.com
 - **Telegram**: [@hardcodeonly](https://t.me/hardcodeonly)
-- **LinkedIn**: [Oleksii Babchynskyi](https://www.linkedin.com/in/oleksii-babchynskyi-8a1b05152/)
+- **LinkedIn**: [Oleksii Babchynskyi](https://www.linkedin.com/in/oleksii-babchynskyi/)
 
 
 
