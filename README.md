@@ -44,77 +44,50 @@ Odesa STEAM University “STEP”, Ukraine
 
 # 🛠 Technical Skills
 
-### 💻 Programming Languages  
+> ⚠️ Note: Technologies are grouped by proficiency level.  
+> **Core Stack** — used in production/commercial or major personal projects.  
+> **Additionally Used / Learning** — basics, experiments, side projects.
+
+---
+
+# 🔥 Core Stack
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-
----
-
-### 🎨 Frontend & UI (Web / Mobile / Desktop)  
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232A.svg?logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![MJML](https://img.shields.io/badge/MJML-F45E43?logo=mjml&logoColor=white)
-
----
-
-### 🔧 Backend & Frameworks  
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)
-
----
-
-### 💾 Databases  
 ![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-
----
-
-### ☁️ Cloud & DevOps  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions&logoColor=white)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0089D6?logo=msazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white)
-
----
-
-### 📄 Build & Document Pipeline  
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)
 ![Makefile](https://img.shields.io/badge/Makefile-000?logo=gnu&logoColor=white)
 ![Pandoc](https://img.shields.io/badge/Pandoc-000?logo=pandoc&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff)
-![XeLaTeX](https://img.shields.io/badge/XeLaTeX-333?logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff)
-![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
-![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
 
 ---
 
-### 🧰 Tools & IDEs  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)
-![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-0078d7.svg?logo=vsc&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+# 📚 Additionally Used / Learning
+
+![React](https://img.shields.io/badge/React-%2320232A.svg?logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![MJML](https://img.shields.io/badge/MJML-F45E43?logo=mjml&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
-
 ---
 
 # 💼 Work Experience
