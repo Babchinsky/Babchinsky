@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Oleksii Babchynskyi — Software Developer  
-Junior Fullstack Developer from Odesa, Ukraine 🇺🇦
+Junior Fullstack Developer based in Nürnberg, Germany 🇩🇪  
+Originally from Odesa, Ukraine 🇺🇦
 
 I'm a Fullstack Software Developer with experience in web development, backend architecture, DevOps, and cloud technologies.  
 I build multilingual platforms, automate content workflows, design backend systems, and develop production-ready applications.
