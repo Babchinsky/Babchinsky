@@ -1,161 +1,124 @@
-# 👋 Hi, I'm Oleksii Babchynskyi — Software Developer  
-Junior Fullstack Developer based in Nürnberg, Germany 🇩🇪  
-Originally from Odesa, Ukraine 🇺🇦
+<div align="center">
 
-Software Engineer with commercial experience in .NET full-stack development and Python backend automation. I enjoy building backend systems, web applications and developer tools. Currently developing SmokingBye — a multilingual content platform — and interested in backend engineering, cloud technologies and AI-assisted software development.
+# Hi, I'm Oleksii Babchynskyi
 
----
+### Full-Stack Software Developer
 
-# 📇 Profile Summary
+C# / .NET · ASP.NET Core · Angular · TypeScript · Web Applications · AI-Assisted Development
 
-- 🎓 **Bachelor of Computer Science (2025)** — Odesa STEAM University “STEP”  
-- 💼 **Junior Fullstack Developer — 8 months commercial experience**  
-- 🧩 Full development cycle: *architecture → development → testing → deployment → maintenance*  
-- 🚀 Creator of **SmokingBye**, a multilingual automated platform (12 languages)  
-- ☁️ Experience with cloud infrastructure (Azure, Cloudflare), CI/CD, Docker  
-- 💡 Strong interest in full-stack, backend, cloud engineering, automation, and applied AI  
-- 🌍 Languages: Ukrainian, Russian, English (B1)
+Based in Nuremberg, Germany · Originally from Odesa, Ukraine
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksii-babchynskyi/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexseyb64@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@hardcodeonly-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hardcodeonly)
 
-# 📞 Contact Information
+<br>
 
-**Email:** alexseyb64@gmail.com  
-**Telegram:** [@hardcodeonly](https://t.me/hardcodeonly)  
-**GitHub:** https://github.com/Babchinsky  
-**LinkedIn:** https://www.linkedin.com/in/oleksii-babchynskyi/  
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&&logoColor=white)
+![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
----
+</div>
 
-# 🎓 Education
+## About me
 
-### **Bachelor of Computer Science (2021–2025)**  
-Odesa STEAM University “STEP”, Ukraine  
-**Specialty:** 122 — Computer Science  
+I am a full-stack software developer with commercial experience building web interfaces, backend functionality, and database-driven applications. My preferred direction is modern web development with **C#, .NET, ASP.NET Core, Angular, and TypeScript**.
 
-**Key competencies:**
-- Communication & teamwork (Scrum/Kanban)  
-- Independent research & problem solving  
-- Time management & responsibility  
-- Fast adaptation to new technologies  
-- Mentoring junior developers  
+I also use Python when it is a practical fit for automation, integrations, data processing, and internal tools. I am comfortable taking a project through the full development cycle - from research and architecture to implementation, testing, deployment, and maintenance.
 
----
+I actively use AI development tools such as **Claude, Codex, and Cursor** to accelerate research, implementation, debugging, and refactoring while keeping responsibility for requirements, technical decisions, verification, and the final result.
 
-# 🛠 Technical Skills
+## Experience
 
-> ⚠️ Note: Technologies are grouped by proficiency level.  
-> **Core Stack** — used in production/commercial or major personal projects.  
-> **Additionally Used / Learning** — basics, experiments, side projects.
+### Junior Full-Stack Developer · Dvigunity
 
----
+*May 2024 - January 2025*
 
-# 🔥 Core Stack
+- Developed Angular components, forms, pop-up workflows, route guards, and `CanDeactivate` behavior.
+- Implemented unsaved-change protection and synchronization between routes, tabs, and editing state.
+- Worked with backend data models, module refactoring, and date/timezone handling with Luxon.
+- Participated in pull requests, code reviews, bug fixing, CI/CD processes, and Agile delivery.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=.net&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions&logoColor=white)
-![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0089D6?logo=msazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)
-![Makefile](https://img.shields.io/badge/Makefile-000?logo=gnu&logoColor=white)
-![Pandoc](https://img.shields.io/badge/Pandoc-000?logo=pandoc&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff)
-![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff)
+### Backend & Automation Engineer · Natural Links
 
----
+*March 2026 - May 2026 · Remote*
 
-# 📚 Additionally Used / Learning
+- Built a Python platform for domain-auction collection, analysis, and automated bidding using an AI-assisted development workflow.
+- Implemented 18 marketplace source adapters and 9 bidder integrations across REST APIs, authenticated sessions, CSV/RSS feeds, and browser automation.
+- Developed concurrent PostgreSQL-backed workers and a FastAPI administration dashboard.
+- Added retries, rate limiting, proxy rotation, structured logging, Telegram notifications, and Debian/systemd deployment.
+- Used Claude, Codex, and Cursor for technical research, implementation support, debugging, and iterative code improvement.
 
-![React](https://img.shields.io/badge/React-%2320232A.svg?logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![MJML](https://img.shields.io/badge/MJML-F45E43?logo=mjml&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
----
+## Selected projects
 
-# 💼 Work Experience
+### [SmokingBye.com](https://smokingbye.com) · Multilingual automation platform
 
-### 👨‍💻 **Junior Full-Stack Developer — Dvigunity**  
-**May 2024 — January 2025**  
-- Developed Angular components, pop-ups, forms, guards, and CanDeactivate handlers  
-- Implemented logic for unsaved changes on editing screens  
-- Designed backend data models and refactored existing modules  
-- Integrated Luxon for date/time and timezone management  
-- Participated in CI/CD processes, code reviews, and bug fixing  
-- Worked in an Agile team with ticket-based workflow  
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
+- Building and maintaining a production content platform supporting 40 languages, including RTL locales.
+- Automated multilingual content preparation, post publishing, localization checks, asset processing, and deployment workflows.
+- Implemented tokenized and personalized PDF delivery with Cloudflare Pages Functions, KV, R2, and pdf-lib.
+- Built CI/CD, preview deployments, SEO metadata, sitemaps, structured data, and localization consistency checks.
 
-# 🚀 Projects
+### [AmazonKiller](https://github.com/Babchinsky/AmazonKillerBack) · E-commerce backend
 
-## 🛒 **AmazonKiller — E-Commerce Backend**
-**GitHub:** https://github.com/Babchinsky/AmazonKillerBack  
-**Tech stack:** ASP.NET Core • MS SQL • EF Core • Docker • Azure • Stripe API • Swagger • Postman
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-**Highlights:**
-- Fully functional backend for an online store  
-- JWT authentication, Refresh Tokens, email verification  
-- Catalog, filters, cart, wishlist, orders  
-- Stripe Checkout integration  
-- CI/CD pipeline: Docker → GitHub Actions → Azure Container Apps  
-- Azure SQL + Blob Storage for data and media  
+- Developed catalog, filtering, cart, wishlist, order, and administration workflows.
+- Implemented JWT authentication, refresh tokens, email verification, and role-based access.
+- Integrated Stripe Checkout and deployed with Docker and GitHub Actions to Azure Container Apps.
 
----
+<details>
+<summary><b>More technologies I have worked with</b></summary>
 
-## 🚀 **SmokingBye.com — Multilingual Automated Platform**
-**Tech:** Hugo • SCSS/TS • Cloudflare KV/R2/Pages Functions • Docker • pdf-lib • GitHub Actions  
-**Role:** Full-stack developer, DevOps, system architect  
-**Languages:** 12-language production platform
+<br>
 
-**Achievements:**
-- Designed 3-layer architecture: content → templates → edge functions  
-- Tokenized & personalized PDF generation (KV + R2)  
-- Automated builds, localization, and slug parity  
-- SEO: sitemap, metadata, structured data  
-- Secure PDF processing and secrets storage  
-- Full CI/CD for preview & production deploys  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Pandoc](https://img.shields.io/badge/Pandoc-2D2D2D?style=flat-square)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
----
+REST APIs · PostgreSQL · SQL Server · Entity Framework Core · ADO.NET · Jinja2 · asyncio · aiohttp · requests · Playwright · Docker · Cloudflare KV/R2 · GitHub Actions · systemd · Pandoc · XeLaTeX · Lua filters
 
-## 📘 **SmokingBye Book Builder — PDF Generation System**
-**Tech:** Pandoc • XeLaTeX • Lua filters • Markdown • YAML • Makefile  
-**Role:** Build system architect & developer
+</details>
 
-**Highlights:**
-- Full pipeline: Markdown → Pandoc → XeLaTeX → PDF  
-- Supports 11 languages (including RTL)  
-- Lua filter for auto-centering images  
-- Deterministic layouts for all languages  
-- Automated builds through Makefile (single or multi-language)  
-- Localization workflow and QA process  
+<details>
+<summary><b>How I use AI in software development</b></summary>
 
----
+- Turning product ideas and operational requirements into technical plans and smaller implementation tasks.
+- Researching unfamiliar APIs, protocols, edge cases, and alternative architecture approaches.
+- Accelerating implementation, test creation, refactoring, debugging, and documentation.
+- Reviewing generated changes, validating behavior, running tests, and iterating until the result works in the real environment.
 
-# 🌟 About Me
+**Tools:** Claude · OpenAI Codex · Cursor
 
-- I love building efficient, scalable, multilingual systems  
-- I enjoy researching new technologies and solving complex problems  
-- Passionate about cloud infrastructure, automation, and DevOps  
-- I regularly create and maintain my own production-grade projects  
-- Always open to learning, improving, and contributing to meaningful products  
+</details>
 
----
+## Education
 
-📬 *Feel free to reach out or explore my repositories!*  
+**Bachelor of Computer Science** · Odesa STEAM University "STEP" · 2025
+
+Ukrainian and Russian - native · English - B1 · German - A1
+
+## Let's connect
+
+I am interested in full-stack and web-development opportunities where I can work with **C#/.NET, ASP.NET Core, Angular, TypeScript, APIs, and cloud-based applications**.
+
+You can reach me through [LinkedIn](https://www.linkedin.com/in/oleksii-babchynskyi/), [email](mailto:alexseyb64@gmail.com), or Telegram [@hardcodeonly](https://t.me/hardcodeonly).
+
