@@ -34,7 +34,7 @@ I actively use AI development tools such as **Claude, Codex, and Cursor** to acc
 
 ## Experience
 
-### Junior Full-Stack Developer · Dvigunity
+### Full-Stack Developer · Dvigunity
 
 *May 2024 - January 2025*
 
