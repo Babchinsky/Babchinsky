@@ -45,7 +45,7 @@ I actively use AI development tools such as **Claude, Codex, and Cursor** to acc
 
 ### Backend & Automation Engineer · Natural Links
 
-*March 2026 - May 2026 · Remote*
+*October 2025 - December 2025 · Remote*
 
 - Built a Python platform for domain-auction collection, analysis, and automated bidding using an AI-assisted development workflow.
 - Implemented 18 marketplace source adapters and 9 bidder integrations across REST APIs, authenticated sessions, CSV/RSS feeds, and browser automation.
