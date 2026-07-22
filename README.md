@@ -2,8 +2,7 @@
 Junior Fullstack Developer based in Nürnberg, Germany 🇩🇪  
 Originally from Odesa, Ukraine 🇺🇦
 
-I'm a Fullstack Software Developer with experience in web development, backend architecture, DevOps, and cloud technologies.  
-I build multilingual platforms, automate content workflows, design backend systems, and develop production-ready applications.
+Software Engineer with commercial experience in .NET full-stack development and Python backend automation. I enjoy building backend systems, web applications and developer tools. Currently developing SmokingBye — a multilingual content platform — and interested in backend engineering, cloud technologies and AI-assisted software development.
 
 ---
 
